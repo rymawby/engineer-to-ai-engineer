@@ -10,7 +10,7 @@ This repo is a GitHub-friendly version of the revision crib sheet I put together
 
 The notes focus on practical AI engineering and agent-system concepts:
 
-- LLMs, embeddings, vector spaces, and stochastic systems
+- LLMs, embeddings, vector spaces, and non-deterministic systems
 - RAG, retrieval, chunking, and vector databases
 - Agents, tool use, MCP servers, and production guardrails
 - Distributed-systems concepts that matter for AI workflows
@@ -41,4 +41,3 @@ Start with the [revision index](docs/README.md), then work through the files in 
 ## Guiding principle
 
 > Use LLMs for reasoning and language. Use systems for state, truth, money and safety.
-
